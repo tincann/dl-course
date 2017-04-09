@@ -3,3 +3,8 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+
+*.p
+*.tar.gz
+cifar*
+__pycache__/
