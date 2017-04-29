@@ -8,3 +8,4 @@ embeddings/text8.zip
 *.tar.gz
 cifar*
 __pycache__/
+.ipynb_checkpoints/
